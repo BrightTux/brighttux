@@ -8,18 +8,18 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons//icons/instagram.svg" />][instagram]
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons//icons/linkedin.svg"/>][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/linkedin.svg"/>][linkedin]
 
 <br />
 
 ### Tools and Languages:
 
-[<img align="left" alt="Vim" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons//icons/Vimlogo.svg" />]()
-[<img align="left" alt="Git" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons//icons/Git-Icon-1788C.eps"/>]() 
-[<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons//icons/python-logo-generic.svg"/>]()
-[<img align="left" alt="OpenCV" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons//icons/487px-OpenCV_Logo_with_text_svg_version.svg.png"/>]()
-[<img align="left" alt="Tensorflow" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons//icons/Tensorflow_logo.svg"/>]()
+[<img align="left" alt="Vim" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/Vimlogo.svg" />]()
+[<img align="left" alt="Git" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/Git-Icon-1788C.eps"/>]() 
+[<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/python-logo-generic.svg"/>]()
+[<img align="left" alt="OpenCV" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/487px-OpenCV_Logo_with_text_svg_version.svg.png"/>]()
+[<img align="left" alt="Tensorflow" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/Tensorflow_logo.svg"/>]()
 
 <br />
 
