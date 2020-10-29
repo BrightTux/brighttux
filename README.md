@@ -4,6 +4,7 @@
 - Computer Vision
 - DevOps
 - Mechanical Keyboards
+- Linux
 - Terminal Applications
 
 ### Connect with me:
