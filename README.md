@@ -21,7 +21,7 @@
 <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/python-logo-generic.svg"/>
 <img align="left" alt="OpenCV" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/487px-OpenCV_Logo_with_text_svg_version.svg.png"/>
 <img align="left" alt="Tensorflow" width="22px" src="https://raw.githubusercontent.com/BrightTux/brighttux/master/icons/Tensorflow_logo.svg"/>
-<img align="left" alt="Ansible" width="22px" src="https://docs.ansible.com/ansible/latest/_static/images/logo_invert.png"/>
+<img align="left" alt="Ansible" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png"/>
 <img align="left" alt="Docker" width="22px" src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png"/>
 <br />
 
